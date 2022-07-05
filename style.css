@@ -1,0 +1,108 @@
+html{
+    height: 100%;
+    text-align: center;
+}
+body{
+    background-color:rgb(235, 231, 231);
+    margin: 0;
+    height: 100%;
+} 
+.log{
+    position:relative;
+    font-weight: bold;
+    font-size: 14px;
+    text-align: center;
+}
+.num{
+    margin-top: 10px;
+    height: 40px;
+    width: 400px;
+}
+.num2{
+    margin-top: 10px;
+}
+.join{
+    border: 0;
+    outline: 0;
+    background-color: rgb(235, 231, 231);
+}
+.bring{
+    border: 0;
+    outline: 0;
+    background-color: rgb(235, 231, 231);
+}
+.choice{
+    height: 40px;
+    width: 400px;
+}
+.number{
+    height: 30px;
+    width: 370px;
+}
+.text1{
+    height: 30px;
+    width: 400px;
+}
+.idnum{
+    height: 15px;
+    width: 410px;
+    
+}
+.idnum1{
+    height: 30px;
+    width: 400px;
+}
+.textbox1{
+    height: 15px;
+    width: 420px; 
+}
+.textbox2{
+    height: 15px;
+    width: 470px;
+}
+.textbox3{
+    height: 15px;
+    width: 400px;
+}
+.name{
+    height: 15px;
+    width: 420px;
+}
+.name1{
+    height: 15px;
+    width: 400px;
+}
+.idnum2{
+    height: 30px;
+    width: 400px;
+}
+.idnum3{
+    height: 30px;
+    width: 400px;
+}
+.idnum4{
+    height: 30px;
+    width: 126px;
+}
+.idnum5{
+    height: 35px;
+    width: 126px;
+}
+.idnum6{
+    height: 30px;
+    width: 126px;
+}
+.idnum7{
+    height: 30px;
+    width: 100px;
+}
+.position{
+    right: 10;
+}
+.po{
+    right: 30px;
+}
+.textbox{
+    height: 30px;
+    width: 400px;
+}
